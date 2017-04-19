@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Devs</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_welcome_text">Hello Android Development</string>
+    <string name="main_name_hint">Your Name Here</string>
+    <string name="main_skill_level_text">Your Development Skill Level</string>
+</resources>
